@@ -8,7 +8,7 @@ python label_image.py \
 --output_layer=final_result \
 --image=/Users/valquiria/Desktop/spiral\ galaxy.jpg 
 
-[Image of spiral!]
+![Image of spiral]
 (https://github.com/Regulus239/EC601-TensorFlow-Practice/blob/master/spriral%20galaxy.jpg)
 result
 spiral galaxy 0.99998486
@@ -22,7 +22,7 @@ python label_image.py \
 --image=/Users/valquiria/Desktop/elliptical\ galaxy.jpg
 
 
-[Image of spiral!]
+![Image of spiral!]
 (https://github.com/Regulus239/EC601-TensorFlow-Practice/blob/master/elliptical%20galaxy.jpg)
 
 
